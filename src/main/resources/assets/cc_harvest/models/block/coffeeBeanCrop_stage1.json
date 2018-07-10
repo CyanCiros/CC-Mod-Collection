@@ -1,0 +1,6 @@
+{
+    "parent": "cc_harvest:block/coffeeBeanCrop",
+    "textures": {
+        "crop": "cc_harvest:blocks/coffeeBeanCrop_stage1"
+    }
+}

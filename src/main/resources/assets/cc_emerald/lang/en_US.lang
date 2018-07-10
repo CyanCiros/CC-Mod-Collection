@@ -1,0 +1,222 @@
+itemGroup.cc_emerald=CC Emerald Mod
+
+tile.emeraldObsidian.name=Emerald Obsidian
+tile.emeraldPortal.name=Emerald Portal Block
+tile.emeraldFire.name=Emerald Fire
+tile.emeraldStairs.name=Emerald Stairs
+tile.emeraldTnt.name=Emerald TNT
+tile.doorBlock.name=Emerald Door
+tile.doorBlockObsidian.name=Emerald Obsidian Door
+
+tile.emeraldTorch.name=Emerald Torch
+tile.diamondTorch.name=Diamond Torch
+tile.redstoneTorch.name=Redstone Torch
+tile.glowstoneTorch.name=Glowstone Torch
+tile.quartzTorch.name=Quartz Torch
+tile.lapisTorch.name=Lapis Torch
+tile.coalTorch.name=Coal Torch
+
+tile.emeraldLamp.name=Emerald Lamp
+tile.emeraldRedstoneLamp.name=Emerald Redstone Lamp
+tile.emeraldRedstoneLampActive.name=Active Emerald Redstone Lamp
+tile.diamondLamp.name=Diamond Lamp
+tile.diamondRedstoneLamp.name=Diamond Redstone Lamp
+tile.diamondRedstoneLampActive.name=Active Diamond Redstone Lamp
+tile.redstoneLamp.name=Redstone Lamp
+tile.redstoneRedstoneLamp.name=Redstone Redstone Lamp
+tile.redstoneRedstoneLampActive.name=Active Redstone Redstone Lamp
+tile.glowstoneLamp.name=Glowstone Lamp
+tile.glowstoneRedstoneLamp.name=Glowstone Redstone Lamp
+tile.glowstoneRedstoneLampActive.name=Active Glowstone Redstone Lamp
+tile.quartzLamp.name=Quartz Lamp
+tile.quartzRedstoneLamp.name=Quartz Redstone Lamp
+tile.quartzRedstoneLampActive.name=Active Quartz Redstone Lamp
+tile.lapisLamp.name=Lapis Lamp
+tile.lapisRedstoneLamp.name=Lapis Redstone Lamp
+tile.lapisRedstoneLampActive.name=Active Lapis Redstone Lamp
+tile.coalLamp.name=Coal Lamp
+tile.coalRedstoneLamp.name=Coal Redstone Lamp
+tile.coalRedstoneLampActive.name=Active Coal Redstone Lamp
+
+item.emeraldHelmet.name=Emerald Helmet
+item.emeraldChestplate.name=Emerald Chestplate
+item.emeraldLeggings.name=Emerald Leggings
+item.emeraldBoots.name=Emerald Boots
+
+item.coalHelmet.name=Coal Helmet
+item.coalChestplate.name=Coal Chestplate
+item.coalLeggings.name=Coal Leggings
+item.coalBoots.name=Coal Boots
+
+item.glowstoneHelmet.name=Glowstone Helmet
+item.glowstoneChestplate.name=Glowstone Chestplate
+item.glowstoneLeggings.name=Glowstone Leggings
+item.glowstoneBoots.name=Glowstone Boots
+
+item.redstoneHelmet.name=Redstone Helmet
+item.redstoneChestplate.name=Redstone Chestplate
+item.redstoneLeggings.name=Redstone Leggings
+item.redstoneBoots.name=Redstone Boots
+
+item.quartzHelmet.name=Quartz Helmet
+item.quartzChestplate.name=Quartz Chestplate
+item.quartzLeggings.name=Quartz Leggings
+item.quartzBoots.name=Quartz Boots
+
+item.lapisHelmet.name=Lapis Helmet
+item.lapisChestplate.name=Lapis Chestplate
+item.lapisLeggings.name=Lapis Leggings
+item.lapisBoots.name=Lapis Boots
+
+item.emeraldHoe.name=Emerald Hoe
+item.emeraldAxe.name=Emerald Axe
+item.emeraldPickaxe.name=Emerald Pickaxe
+item.emeraldShovel.name=Emerald Spade
+item.emeraldSword.name=Emerald Sword
+
+item.coalBow.name=Coal Bow
+item.stoneBow.name=Stone Bow
+item.lapisBow.name=Lapis Bow
+item.ironBow.name=Iron Bow
+item.redstoneBow.name=Redstone Bow
+item.goldBow.name=Gold Bow
+item.diamondBow.name=Diamond Bow
+item.quartzBow.name=Quartz Bow
+item.glowstoneBow.name=Glowstone Bow
+item.emeraldBow.name=Emerald Bow
+
+item.emeraldStaff.name=Emerald Staff
+item.emeraldBattleaxe.name=Emerald Battleaxe
+item.emeraldKhopesh.name=Emerald Khopesh
+item.emeraldKatana.name=Emerald Katana
+item.emeraldBigSword.name=Big Emerald Sword
+
+item.coalHoe.name=Coal Hoe
+item.coalAxe.name=Coal Axe
+item.coalPickaxe.name=Coal Pickaxe
+item.coalShovel.name=Coal Spade
+item.coalSword.name=Coal Sword
+
+item.coalStaff.name=Coal Staff
+item.coalBattleaxe.name=Coal Battleaxe
+item.coalKhopesh.name=Coal Khopesh
+item.coalKatana.name=Coal Katana
+item.coalBigSword.name=Big Coal Sword
+
+item.glowstoneHoe.name=Glowstone Hoe
+item.glowstoneAxe.name=Glowstone Axe
+item.glowstonePickaxe.name=Glowstone Pickaxe
+item.glowstoneShovel.name=Glowstone Spade
+item.glowstoneSword.name=Glowstone Sword
+
+item.glowstoneStaff.name=Glowstone Staff
+item.glowstoneBattleaxe.name=Glowstone Battleaxe
+item.glowstoneKhopesh.name=Glowstone Khopesh
+item.glowstoneKatana.name=Glowstone Katana
+item.glowstoneBigSword.name=Big Glowstone Sword
+
+item.redstoneHoe.name=Redstone Hoe
+item.redstoneAxe.name=Redstone Axe
+item.redstonePickaxe.name=Redstone Pickaxe
+item.redstoneShovel.name=Redstone Spade
+item.redstoneSword.name=Redstone Sword
+
+item.redstoneStaff.name=Redstone Staff
+item.redstoneBattleaxe.name=Redstone Battleaxe
+item.redstoneKhopesh.name=Redstone Khopesh
+item.redstoneKatana.name=Redstone Katana
+item.redstoneBigSword.name=Big Redstone Sword
+
+item.quartzHoe.name=Quartz Hoe
+item.quartzAxe.name=Quartz Axe
+item.quartzPickaxe.name=Quartz Pickaxe
+item.quartzShovel.name=Quartz Spade
+item.quartzSword.name=Quartz Sword
+
+item.quartzStaff.name=Quartz Staff
+item.quartzBattleaxe.name=Quartz Battleaxe
+item.quartzKhopesh.name=Quartz Khopesh
+item.quartzKatana.name=Quartz Katana
+item.quartzBigSword.name=Big Quartz Sword
+
+item.lapisHoe.name=Lapis Hoe
+item.lapisAxe.name=Lapis Axe
+item.lapisPickaxe.name=Lapis Pickaxe
+item.lapisShovel.name=Lapis Spade
+item.lapisSword.name=Lapis Sword
+
+item.lapisStaff.name=Lapis Staff
+item.lapisBattleaxe.name=Lapis Battleaxe
+item.lapisKhopesh.name=Lapis Khopesh
+item.lapisKatana.name=Lapis Katana
+item.lapisBigSword.name=Big Lapis Sword
+
+item.woodStaff.name=Wooden Staff
+item.woodBattleaxe.name=Wooden Battleaxe
+item.woodKhopesh.name=Wooden Khopesh
+item.woodKatana.name=Wooden Katana
+item.woodBigSword.name=Big Wooden Sword
+
+item.stoneStaff.name=Stone Staff
+item.stoneBattleaxe.name=Stone Battleaxe
+item.stoneKhopesh.name=Stone Khopesh
+item.stoneKatana.name=Stone Katana
+item.stoneBigSword.name=Big Stone Sword
+
+item.ironStaff.name=Iron Staff
+item.ironBattleaxe.name=Iron Battleaxe
+item.ironKhopesh.name=Iron Khopesh
+item.ironKatana.name=Iron Katana
+item.ironBigSword.name=Big Iron Sword
+
+item.diamondStaff.name=Diamond Staff
+item.diamondBattleaxe.name=Diamond Battleaxe
+item.diamondKhopesh.name=Diamond Khopesh
+item.diamondKatana.name=Diamond Katana
+item.diamondBigSword.name=Big Diamond Sword
+
+item.goldStaff.name=Golden Staff
+item.goldBattleaxe.name=Golden Battleaxe
+item.goldKhopesh.name=Golden Khopesh
+item.goldKatana.name=Golden Katana
+item.goldBigSword.name=Big Golden Sword
+
+item.emeraldSeeds.name=Emerald Seeds
+tile.emeraldCrop.name=Emerald Plant
+item.ironSeeds.name=Iron Seeds
+tile.ironCrop.name=Iron Plant
+item.goldSeeds.name=Gold Seeds
+tile.goldCrop.name=Gold Plant
+item.diamondSeeds.name=Diamond Seeds
+tile.diamondCrop.name=Diamond Plant
+item.redstoneSeeds.name=Redstone Seeds
+tile.redstoneCrop.name=Redstone Plant
+item.coalSeeds.name=Coal Seeds
+tile.coalCrop.name=Coal Plant
+item.glowstoneSeeds.name=Glowstone Seeds
+tile.glowstoneCrop.name=Glowstone Plant
+item.quartzSeeds.name=Quartz Seeds
+tile.quartzCrop.name=Quartz Plant
+item.lapisSeeds.name=Lapis Seeds
+tile.lapisCrop.name=Lapis Plant
+
+item.doorItem.name=Emerald Door
+item.doorItemObsidian.name=Emerald Obsidian Door
+
+item.coalApple.name=Coal Apple
+item.redstoneApple.name=Redstone Apple
+item.glowstoneApple.name=Glowstone Apple
+item.quartzApple.name=Quartz Apple
+item.lapisApple.name=Lapis Apple
+
+item.emeraldApple.name=Emerald Apple
+
+tile.glowstoneBlock.name=Glowstone Block
+tile.quartzBlock.name=Quartz Block
+
+item.flintAndEmerald.name=Flint and Emerald
+item.emeraldRod.name=Emerald Rod
+item.emeraldDust.name=Emerald Dust
+item.emeraldBone.name=Emerald Bone
+item.emeraldPotion.name=Emerald Potion
+item.emeraldSplashPotion.name=Splash Emerald Potion

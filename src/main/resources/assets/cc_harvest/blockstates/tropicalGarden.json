@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "normal": { "model": "cc_harvest:tropicalGarden" },  
+        "stage=0": { "model": "cc_harvest:tropicalGarden" },
+        "stage=1": { "model": "cc_harvest:tropicalGarden" }
+    }
+}

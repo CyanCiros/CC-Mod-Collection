@@ -1,0 +1,6 @@
+{
+    "parent": "cc_harvest:block/peanutCrop",
+    "textures": {
+        "crop": "cc_harvest:blocks/peanutCrop_stage3"
+    }
+}

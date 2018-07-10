@@ -1,0 +1,10 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "cc_harvest:blocks/box",
+        "bottom": "cc_harvest:blocks/box",
+        "front": "cc_harvest:blocks/storageJellyBox",
+        "side": "cc_harvest:blocks/storageJellyBox",
+        "back": "cc_harvest:blocks/storageJellyBox"
+    }
+}

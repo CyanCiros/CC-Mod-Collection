@@ -1,0 +1,6 @@
+{
+    "parent": "cc_harvest:block/kiwiCrop",
+    "textures": {
+        "crop": "cc_harvest:blocks/kiwiCrop_stage3"
+    }
+}

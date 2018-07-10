@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "cc_emerald:emeraldTnt" },
+            { "model": "cc_emerald:emeraldTnt", "y": 90 },
+            { "model": "cc_emerald:emeraldTnt", "y": 180 },
+            { "model": "cc_emerald:emeraldTnt", "y": 270 }
+        ]
+    }
+}

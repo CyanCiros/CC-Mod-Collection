@@ -1,0 +1,6 @@
+{
+    "parent": "cc_harvest:block/sweetPotatoCrop",
+    "textures": {
+        "crop": "cc_harvest:blocks/sweetPotatoCrop_stage5"
+    }
+}

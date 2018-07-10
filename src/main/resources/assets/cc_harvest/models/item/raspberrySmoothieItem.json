@@ -1,0 +1,6 @@
+{
+    "parent": "cc_harvest:item/standard_item",
+    "textures": {
+        "layer0": "cc_harvest:items/raspberrySmoothieItem"
+    }
+}

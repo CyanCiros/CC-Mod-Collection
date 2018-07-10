@@ -1,0 +1,6 @@
+{
+    "parent": "cc_harvest:block/lettuceCrop",
+    "textures": {
+        "crop": "cc_harvest:blocks/lettuceCrop_stage3"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "cc_harvest:block/celeryCrop",
+    "textures": {
+        "crop": "cc_harvest:blocks/celeryCrop_stage7"
+    }
+}

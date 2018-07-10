@@ -1,0 +1,6 @@
+{
+    "parent": "cc_harvest:block/artichokeCrop",
+    "textures": {
+        "crop": "cc_harvest:blocks/artichokeCrop_stage4"
+    }
+}

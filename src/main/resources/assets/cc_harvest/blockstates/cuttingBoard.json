@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "normal": { "model": "cc_harvest:cuttingBoard" },
+        "facing=north": { "model": "cc_harvest:cuttingBoard" },
+        "facing=south": { "model": "cc_harvest:cuttingBoard", "y": 180 },
+        "facing=west":  { "model": "cc_harvest:cuttingBoard", "y": 270 },
+        "facing=east":  { "model": "cc_harvest:cuttingBoard", "y": 90 }
+    }
+}

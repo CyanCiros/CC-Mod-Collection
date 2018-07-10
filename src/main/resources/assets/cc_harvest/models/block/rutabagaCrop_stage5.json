@@ -1,0 +1,6 @@
+{
+    "parent": "cc_harvest:block/rutabagaCrop",
+    "textures": {
+        "crop": "cc_harvest:blocks/rutabagaCrop_stage5"
+    }
+}

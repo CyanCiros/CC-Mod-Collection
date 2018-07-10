@@ -1,0 +1,6 @@
+{
+    "parent": "cc_harvest:block/soybeanCrop",
+    "textures": {
+        "crop": "cc_harvest:blocks/soybeanCrop_stage7"
+    }
+}

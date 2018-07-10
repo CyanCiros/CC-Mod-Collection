@@ -1,0 +1,16 @@
+itemGroup.cc_more_crafting_recipes=More Crafting Recipes Mod
+
+item.appleStack.name=Apple Stack
+item.arrowStack.name=Arrow Stack
+item.blazeRodStack.name=Blaze Rod Stack
+item.boneStack.name=Bone Stack
+item.breadStack.name=Bread Stack
+item.enderPearlStack.name=Ender Pearl Stack
+item.featherStack.name=Feather Stack
+item.leatherStack.name=Leather Stack
+item.magmaCreamStack.name=Magma Cream Stack
+item.rottenFleshStack.name=Rotten Flesh Stack
+item.slimeballStack.name=Slimeball Stack
+item.snowballStack.name=Snowball Stack
+item.spiderEyeStack.name=Spider Eye Stack
+item.stringStack.name=String Stack

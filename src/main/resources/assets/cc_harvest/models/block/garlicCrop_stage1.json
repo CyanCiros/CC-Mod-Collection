@@ -1,0 +1,6 @@
+{
+    "parent": "cc_harvest:block/garlicCrop",
+    "textures": {
+        "crop": "cc_harvest:blocks/garlicCrop_stage1"
+    }
+}

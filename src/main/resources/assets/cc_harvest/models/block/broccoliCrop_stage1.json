@@ -1,0 +1,6 @@
+{
+    "parent": "cc_harvest:block/broccoliCrop",
+    "textures": {
+        "crop": "cc_harvest:blocks/broccoliCrop_stage1"
+    }
+}

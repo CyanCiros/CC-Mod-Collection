@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "normal": { "model": "cc_harvest:luckyLogFruitsBox" },
+        "facing=north": { "model": "cc_harvest:luckyLogFruitsBox" },
+        "facing=south": { "model": "cc_harvest:luckyLogFruitsBox", "y": 180 },
+        "facing=west":  { "model": "cc_harvest:luckyLogFruitsBox", "y": 270 },
+        "facing=east":  { "model": "cc_harvest:luckyLogFruitsBox", "y": 90 }
+    }
+}

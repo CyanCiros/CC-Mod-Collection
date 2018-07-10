@@ -1,0 +1,6 @@
+{
+    "parent": "cc_harvest:block/cantaloupeCrop",
+    "textures": {
+        "crop": "cc_harvest:blocks/cantaloupeCrop_stage3"
+    }
+}

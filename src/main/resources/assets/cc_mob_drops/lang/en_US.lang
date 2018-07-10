@@ -1,0 +1,57 @@
+itemGroup.cc_mob_drops=Mob Drops Mod
+
+item.creeperHelmet.name=Creeper Helmet
+item.creeperChestplate.name=Creeper Chestplate
+item.creeperLeggings.name=Creeper Leggings
+item.creeperBoots.name=Creeper Boots
+
+item.wolfHelmet.name=Wolf Helmet
+item.wolfChestplate.name=Wolf Chestplate
+item.wolfLeggings.name=Wolf Leggings
+item.wolfBoots.name=Wolf Boots
+
+item.enderHelmet.name=Ender Helmet
+item.enderChestplate.name=Ender Chestplate
+item.enderLeggings.name=Ender Leggings
+item.enderBoots.name=Ender Boots
+
+item.batEars.name=Bat Ears
+item.batEyes.name=Bat Eyes
+item.batFur.name=Bat Fur
+item.batWings.name=Bat Wings
+item.cowHorn.name=Cow Horn
+item.creeperEye.name=Creeper Eye
+item.creeperSkin.name=Creeper Skin
+item.enderJewel.name=Ender Jewel
+item.enderSkin.name=Ender Skin
+item.enderTear.name=Ender Tear
+item.goo.name=Goo
+item.horseHoof.name=Horse Hoof
+item.magmaGoo.name=Magma Goo
+item.horseShoe.name=Horse Shoe
+item.horseSkin.name=Horse Skin
+item.squidEye.name=Squid Eye
+item.squidTentacle.name=Squid Tentacle
+item.wolfSkin.name=Wolf Skin
+
+item.bacon.name=Bacon
+item.calamari.name=Calamari
+item.chickenLegs.name=Chicken Legs
+item.cookedCarrot.name=Cooked Carrot
+item.cookedCalamari.name=Cooked Calamari
+item.cookedChickenLeg.name=Cooked Chicken Leg
+item.cookedLambchop.name=Cooked Lambchop
+item.cookedSquid.name=Cooked Squid
+item.friedEggs.name=Fried Eggs
+item.ham.name=Ham
+item.pigmanMeat.name=Pigman Meat
+item.rawLambchop.name=Raw Lambchop
+item.rawRibs.name=Raw Ribs
+item.ribs.name=Ribs
+item.squid.name=Squid
+item.zombieBrain.name=Zombie Brain
+
+item.gooSword.name=Goo Sword
+item.magmaGooSword.name=Magma Goo Sword
+item.spiderLeg.name=Spider Leg
+item.zombieArm.name=Zombie Arm

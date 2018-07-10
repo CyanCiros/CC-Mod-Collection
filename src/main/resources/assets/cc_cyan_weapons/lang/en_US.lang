@@ -1,0 +1,94 @@
+itemGroup.cc_cyan_weapons=Cyan Weapons
+
+# Essence
+item.essenceFire.name=Fire Essence 
+item.essenceBeast.name=Beast Essence 
+item.essenceDark.name=Dark Essence 
+item.essenceEarth.name=Earth Essence 
+item.essenceEnder.name=Ender Essence 
+item.essenceLight.name=Light Essence 
+item.essenceThunder.name=Thunder Essence 
+item.essenceWater.name=Water Essence 
+item.essenceWind.name=Wind Essence
+item.essenceMixed.name=Mixed Essence
+item.swordHandle.name=Elemental Sword Handle
+
+# Swords
+item.beastSword.name=Beast Sword
+item.blizzardSword.name=Blizzard Sword
+item.cyanSword.name=Cyan Sword
+item.darkNetherSword.name=Dark Nether Sword
+item.darkSword.name=Dark Sword
+item.earthSword.name=Earth Sword
+item.enderFireSword.name=Ender Fire Sword
+item.enderPortalSword.name=Ender Portal Sword
+item.enderSword.name=Ender Sword
+item.enderThunderSword.name=Ender Thunder Sword
+item.enderWindSword.name=Ender Wind Sword
+item.fireSword.name=Fire Sword
+item.lightNetherSword.name=Light Nether Sword
+item.lightSword.name=Light Sword
+item.iceSword.name=Ice Sword
+item.meteoricThunderstormSword.name=Meteoric Thunderstorm Sword
+item.meteorSword.name=Meteor Sword
+item.peacefulNatureSword.name=Peaceful Nature Sword
+item.steamSword.name=Steam Sword
+item.thunderShockSword.name=Thunder Shock Sword 
+item.thunderSword.name=Thunder Sword
+item.thunderstormSword.name=Thunderstorm Sword
+item.timeSword.name=Time Sword
+item.triEnderSword.name=Tri-Ender Sword
+item.waterSword.name=Water Sword
+item.wildNatureSword.name=Wild Nature Sword
+item.windBlastSword.name=Wind Blast Sword
+item.windSword.name=Wind Sword
+item.windWhirlSword.name=WindWhirl Sword
+item.wolfSword.name=Wolf Sword
+
+# Bows
+item.blizzardBow.name=Blizzard Bow
+item.cyanBow.name=Cyan Bow
+item.darkNetherBow.name=Dark Nether Bow
+item.darkBow.name=Dark Bow
+item.enderFireBow.name=Ender Fire Bow
+item.enderPortalBow.name=Ender Portal Bow
+item.enderBow.name=Ender Bow
+item.enderWindBow.name=Ender Wind Bow
+item.fireBow.name=Fire Bow
+item.lightNetherBow.name=Light Nether Bow
+item.lightBow.name=Light Bow
+item.iceBow.name=Ice Bow
+item.meteoricThunderstormBow.name=Meteoric Thunderstorm Bow
+item.meteorBow.name=Meteor Bow
+item.peacefulNatureBow.name=Peaceful Nature Bow
+item.steamBow.name=Steam Bow
+item.timeBow.name=Time Bow
+item.triEnderBow.name=Tri-Ender Bow
+item.wildNatureBow.name=Wild Nature Bow
+item.windBlastBow.name=Wind Blast Bow
+item.windBow.name=Wind Bow
+item.windWhirlBow.name=WindWhirl Bow
+
+# Arrows
+item.blizzardArrow.name=Blizzard Arrow
+item.cyanArrow.name=Cyan Arrow
+item.darkNetherArrow.name=Dark Nether Arrow
+item.darkArrow.name=Dark Arrow
+item.enderFireArrow.name=Ender Fire Arrow
+item.enderPortalArrow.name=Ender Portal Arrow
+item.enderArrow.name=Ender Arrow
+item.enderWindArrow.name=Ender Wind Arrow
+item.fireArrow.name=Fire Arrow
+item.lightNetherArrow.name=Light Nether Arrow
+item.lightArrow.name=Light Arrow
+item.iceArrow.name=Ice Arrow
+item.meteoricThunderstormArrow.name=Meteoric Thunderstorm Arrow
+item.meteorArrow.name=Meteor Arrow
+item.peacefulNatureArrow.name=Peaceful Nature Arrow
+item.steamArrow.name=Steam Arrow
+item.timeArrow.name=Time Arrow
+item.triEnderArrow.name=Tri-Ender Arrow
+item.wildNatureArrow.name=Wild Nature Arrow
+item.windBlastArrow.name=Wind Blast Arrow
+item.windArrow.name=Wind Arrow
+item.windWhirlArrow.name=WindWhirl Arrow

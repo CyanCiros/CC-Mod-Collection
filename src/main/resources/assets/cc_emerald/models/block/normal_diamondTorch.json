@@ -1,0 +1,6 @@
+{
+    "parent": "block/torch",
+    "textures": {
+        "torch": "cc_emerald:blocks/diamondTorch_on"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "cc_harvest:block/cranberryCrop",
+    "textures": {
+        "crop": "cc_harvest:blocks/cranberryCrop_stage4"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "cc_harvest:block/eggplantCrop",
+    "textures": {
+        "crop": "cc_harvest:blocks/eggplantCrop_stage7"
+    }
+}

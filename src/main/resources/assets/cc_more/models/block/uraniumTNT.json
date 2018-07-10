@@ -1,0 +1,11 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "up": "cc_more:blocks/uraniumTNT_top",
+        "down": "cc_more:blocks/uraniumTNT_bottom",
+        "north": "cc_more:blocks/uraniumTNT_side",
+        "east": "cc_more:blocks/uraniumTNT_side",
+        "south": "cc_more:blocks/uraniumTNT_side",
+        "west": "cc_more:blocks/uraniumTNT_side"
+    }
+}

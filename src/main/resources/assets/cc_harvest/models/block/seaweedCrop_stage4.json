@@ -1,0 +1,6 @@
+{
+    "parent": "cc_harvest:block/seaweedCrop",
+    "textures": {
+        "crop": "cc_harvest:blocks/seaweedCrop_stage4"
+    }
+}

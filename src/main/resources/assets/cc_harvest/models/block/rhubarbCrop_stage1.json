@@ -1,0 +1,6 @@
+{
+    "parent": "cc_harvest:block/rhubarbCrop",
+    "textures": {
+        "crop": "cc_harvest:blocks/rhubarbCrop_stage1"
+    }
+}

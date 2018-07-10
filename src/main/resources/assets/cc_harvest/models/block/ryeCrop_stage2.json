@@ -1,0 +1,6 @@
+{
+    "parent": "cc_harvest:block/ryeCrop",
+    "textures": {
+        "crop": "cc_harvest:blocks/ryeCrop_stage2"
+    }
+}

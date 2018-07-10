@@ -1,0 +1,482 @@
+itemGroup.cc_more=M-Ore Mod
+
+# Ores
+tile.copperOre.name=Copper Ore
+tile.tinOre.name=Tin Ore
+tile.bauxiteOre.name=Bauxite Ore
+tile.chromeOre.name=Chrome Ore
+tile.silverOre.name=Silver Ore
+tile.leadOre.name=Lead Ore
+tile.rubyOre.name=Ruby Ore
+tile.sapphireOre.name=Sapphire Ore
+tile.stainlessOre.name=Stainless Ore
+tile.amethystOre.name=Amethyst Ore
+tile.titaniumOre.name=Titanium Ore
+tile.jadeOre.name=Jade Ore
+tile.uraniumOre.name=Uranium Ore
+tile.fluoriteOre.name=Fluorite Ore
+tile.platinumOre.name=Platinum Ore
+tile.meteoriteOre.name=Meteorite Ore
+
+# Ingots
+item.copperIngot.name=Copper Ingot
+item.tinIngot.name=Tin Ingot
+item.bronzeIngot.name=Bronze Ingot
+item.bauxiteIngot.name=Bauxite Ingot
+item.chromeIngot.name=Chrome Ingot
+item.silverIngot.name=Silver Ingot
+item.leadIngot.name=Lead Ingot
+item.rubyGem.name=Ruby Gem
+item.sapphireGem.name=Sapphire Gem
+item.stainlessIngot.name=Stainless Ingot
+item.amethystIngot.name=Amethyst Ingot
+item.titaniumIngot.name=Titanium Ingot
+item.jadeGem.name=Jade Gem
+item.uraniumIngot.name=Uranium Ingot
+item.fluoriteIngot.name=Fluorite Ingot
+item.platinumIngot.name=Platinum Ingot
+item.meteorite.name=Meteorite
+
+# Blocks
+tile.copperBlock.name=Copper Block
+tile.tinBlock.name=Tin Block
+tile.bronzeBlock.name=Bronze Block
+tile.bauxiteBlock.name=Bauxite Block
+tile.chromeBlock.name=Chrome Block
+tile.silverBlock.name=Silver Block
+tile.leadBlock.name=Lead Block
+tile.rubyBlock.name=Ruby Block
+tile.sapphireBlock.name=Sapphire Block
+tile.stainlessBlock.name=Stainless Block
+tile.amethystBlock.name=Amethyst Block
+tile.titaniumBlock.name=Titanium Block
+tile.jadeBlock.name=Jade Block
+tile.uraniumBlock.name=Uranium Block
+tile.fluoriteBlock.name=Fluorite Block
+tile.platinumBlock.name=Platinum Block
+tile.meteoriteBlock.name=Meteorite Block
+
+# Copper
+item.copperHoe.name=Copper Hoe
+item.copperAxe.name=Copper Axe
+item.copperPickaxe.name=Copper Pickaxe
+item.copperShovel.name=Copper Shovel
+item.copperSword.name=Copper Sword
+
+item.copperStaff.name=Copper Staff
+item.copperBattleaxe.name=Copper Battleaxe
+item.copperKhopesh.name=Copper Khopesh
+item.copperKatana.name=Copper Katana
+item.copperBigSword.name=Copper Big Sword
+
+item.copperHelmet.name=Copper Helmet
+item.copperChestplate.name=Copper Chestplate
+item.copperLeggings.name=Copper Leggings
+item.copperBoots.name=Copper Boots
+
+# Tin
+item.tinHoe.name=Tin Hoe
+item.tinAxe.name=Tin Axe
+item.tinPickaxe.name=Tin Pickaxe
+item.tinShovel.name=Tin Shovel
+item.tinSword.name=Tin Sword
+
+item.tinStaff.name=Tin Staff
+item.tinBattleaxe.name=Tin Battleaxe
+item.tinKhopesh.name=Tin Khopesh
+item.tinKatana.name=Tin Katana
+item.tinBigSword.name=Tin Big Sword
+
+item.tinHelmet.name=Tin Helmet
+item.tinChestplate.name=Tin Chestplate
+item.tinLeggings.name=Tin Leggings
+item.tinBoots.name=Tin Boots
+
+# Bronze
+item.bronzeHoe.name=Bronze Hoe
+item.bronzeAxe.name=Bronze Axe
+item.bronzePickaxe.name=Bronze Pickaxe
+item.bronzeShovel.name=Bronze Shovel
+item.bronzeSword.name=Bronze Sword
+
+item.bronzeStaff.name=Bronze Staff
+item.bronzeBattleaxe.name=Bronze Battleaxe
+item.bronzeKhopesh.name=Bronze Khopesh
+item.bronzeKatana.name=Bronze Katana
+item.bronzeBigSword.name=Bronze Big Sword
+
+item.bronzeHelmet.name=Bronze Helmet
+item.bronzeChestplate.name=Bronze Chestplate
+item.bronzeLeggings.name=Bronze Leggings
+item.bronzeBoots.name=Bronze Boots
+
+# Bauxite
+item.bauxiteHoe.name=Bauxite Hoe
+item.bauxiteAxe.name=Bauxite Axe
+item.bauxitePickaxe.name=Bauxite Pickaxe
+item.bauxiteShovel.name=Bauxite Shovel
+item.bauxiteSword.name=Bauxite Sword
+
+item.bauxiteStaff.name=Bauxite Staff
+item.bauxiteBattleaxe.name=Bauxite Battleaxe
+item.bauxiteKhopesh.name=Bauxite Khopesh
+item.bauxiteKatana.name=Bauxite Katana
+item.bauxiteBigSword.name=Bauxite Big Sword
+
+item.bauxiteHelmet.name=Bauxite Helmet
+item.bauxiteChestplate.name=Bauxite Chestplate
+item.bauxiteLeggings.name=Bauxite Leggings
+item.bauxiteBoots.name=Bauxite Boots
+
+# Chrome
+item.chromeHoe.name=Chrome Hoe
+item.chromeAxe.name=Chrome Axe
+item.chromePickaxe.name=Chrome Pickaxe
+item.chromeShovel.name=Chrome Shovel
+item.chromeSword.name=Chrome Sword
+
+item.chromeStaff.name=Chrome Staff
+item.chromeBattleaxe.name=Chrome Battleaxe
+item.chromeKhopesh.name=Chrome Khopesh
+item.chromeKatana.name=Chrome Katana
+item.chromeBigSword.name=Chrome Big Sword
+
+item.chromeHelmet.name=Chrome Helmet
+item.chromeChestplate.name=Chrome Chestplate
+item.chromeLeggings.name=Chrome Leggings
+item.chromeBoots.name=Chrome Boots
+
+# Silver
+item.silverHoe.name=Silver Hoe
+item.silverAxe.name=Silver Axe
+item.silverPickaxe.name=Silver Pickaxe
+item.silverShovel.name=Silver Shovel
+item.silverSword.name=Silver Sword
+
+item.silverStaff.name=Silver Staff
+item.silverBattleaxe.name=Silver Battleaxe
+item.silverKhopesh.name=Silver Khopesh
+item.silverKatana.name=Silver Katana
+item.silverBigSword.name=Silver Big Sword
+
+item.silverHelmet.name=Silver Helmet
+item.silverChestplate.name=Silver Chestplate
+item.silverLeggings.name=Silver Leggings
+item.silverBoots.name=Silver Boots
+
+# Lead
+item.leadHoe.name=Lead Hoe
+item.leadAxe.name=Lead Axe
+item.leadPickaxe.name=Lead Pickaxe
+item.leadShovel.name=Lead Shovel
+item.leadSword.name=Lead Sword
+
+item.leadStaff.name=Lead Staff
+item.leadBattleaxe.name=Lead Battleaxe
+item.leadKhopesh.name=Lead Khopesh
+item.leadKatana.name=Lead Katana
+item.leadBigSword.name=Lead Big Sword
+
+item.leadHelmet.name=Lead Helmet
+item.leadChestplate.name=Lead Chestplate
+item.leadLeggings.name=Lead Leggings
+item.leadBoots.name=Lead Boots
+
+# Ruby
+item.rubyHoe.name=Ruby Hoe
+item.rubyAxe.name=Ruby Axe
+item.rubyPickaxe.name=Ruby Pickaxe
+item.rubyShovel.name=Ruby Shovel
+item.rubySword.name=Ruby Sword
+
+item.rubyStaff.name=Ruby Staff
+item.rubyBattleaxe.name=Ruby Battleaxe
+item.rubyKhopesh.name=Ruby Khopesh
+item.rubyKatana.name=Ruby Katana
+item.rubyBigSword.name=Ruby Big Sword
+
+item.rubyHelmet.name=Ruby Helmet
+item.rubyChestplate.name=Ruby Chestplate
+item.rubyLeggings.name=Ruby Leggings
+item.rubyBoots.name=Ruby Boots
+
+# Sapphire
+item.sapphireHoe.name=Sapphire Hoe
+item.sapphireAxe.name=Sapphire Axe
+item.sapphirePickaxe.name=Sapphire Pickaxe
+item.sapphireShovel.name=Sapphire Shovel
+item.sapphireSword.name=Sapphire Sword
+
+item.sapphireStaff.name=Sapphire Staff
+item.sapphireBattleaxe.name=Sapphire Battleaxe
+item.sapphireKhopesh.name=Sapphire Khopesh
+item.sapphireKatana.name=Sapphire Katana
+item.sapphireBigSword.name=Sapphire Big Sword
+
+item.sapphireHelmet.name=Sapphire Helmet
+item.sapphireChestplate.name=Sapphire Chestplate
+item.sapphireLeggings.name=Sapphire Leggings
+item.sapphireBoots.name=Sapphire Boots
+
+# Stainless
+item.stainlessHoe.name=Stainless Hoe
+item.stainlessAxe.name=Stainless Axe
+item.stainlessPickaxe.name=Stainless Pickaxe
+item.stainlessShovel.name=Stainless Shovel
+item.stainlessSword.name=Stainless Sword
+
+item.stainlessStaff.name=Stainless Staff
+item.stainlessBattleaxe.name=Stainless Battleaxe
+item.stainlessKhopesh.name=Stainless Khopesh
+item.stainlessKatana.name=Stainless Katana
+item.stainlessBigSword.name=Stainless Big Sword
+
+item.stainlessHelmet.name=Stainless Helmet
+item.stainlessChestplate.name=Stainless Chestplate
+item.stainlessLeggings.name=Stainless Leggings
+item.stainlessBoots.name=Stainless Boots
+
+# Amethyst
+item.amethystHoe.name=Amethyst Hoe
+item.amethystAxe.name=Amethyst Axe
+item.amethystPickaxe.name=Amethyst Pickaxe
+item.amethystShovel.name=Amethyst Shovel
+item.amethystSword.name=Amethyst Sword
+
+item.amethystStaff.name=Amethyst Staff
+item.amethystBattleaxe.name=Amethyst Battleaxe
+item.amethystKhopesh.name=Amethyst Khopesh
+item.amethystKatana.name=Amethyst Katana
+item.amethystBigSword.name=Amethyst Big Sword
+
+item.amethystHelmet.name=Amethyst Helmet
+item.amethystChestplate.name=Amethyst Chestplate
+item.amethystLeggings.name=Amethyst Leggings
+item.amethystBoots.name=Amethyst Boots
+
+# Titanium
+item.titaniumHoe.name=Titanium Hoe
+item.titaniumAxe.name=Titanium Axe
+item.titaniumPickaxe.name=Titanium Pickaxe
+item.titaniumShovel.name=Titanium Shovel
+item.titaniumSword.name=Titanium Sword
+
+item.titaniumStaff.name=Titanium Staff
+item.titaniumBattleaxe.name=Titanium Battleaxe
+item.titaniumKhopesh.name=Titanium Khopesh
+item.titaniumKatana.name=Titanium Katana
+item.titaniumBigSword.name=Titanium Big Sword
+
+item.titaniumHelmet.name=Titanium Helmet
+item.titaniumChestplate.name=Titanium Chestplate
+item.titaniumLeggings.name=Titanium Leggings
+item.titaniumBoots.name=Titanium Boots
+
+# Jade
+item.jadeHoe.name=Jade Hoe
+item.jadeAxe.name=Jade Axe
+item.jadePickaxe.name=Jade Pickaxe
+item.jadeShovel.name=Jade Shovel
+item.jadeSword.name=Jade Sword
+
+item.jadeStaff.name=Jade Staff
+item.jadeBattleaxe.name=Jade Battleaxe
+item.jadeKhopesh.name=Jade Khopesh
+item.jadeKatana.name=Jade Katana
+item.jadeBigSword.name=Jade Big Sword
+
+item.jadeHelmet.name=Jade Helmet
+item.jadeChestplate.name=Jade Chestplate
+item.jadeLeggings.name=Jade Leggings
+item.jadeBoots.name=Jade Boots
+
+# Uranium
+item.uraniumHoe.name=Uranium Hoe
+item.uraniumAxe.name=Uranium Axe
+item.uraniumPickaxe.name=Uranium Pickaxe
+item.uraniumShovel.name=Uranium Shovel
+item.uraniumSword.name=Uranium Sword
+
+item.uraniumStaff.name=Uranium Staff
+item.uraniumBattleaxe.name=Uranium Battleaxe
+item.uraniumKhopesh.name=Uranium Khopesh
+item.uraniumKatana.name=Uranium Katana
+item.uraniumBigSword.name=Uranium Big Sword
+
+item.uraniumHelmet.name=Uranium Helmet
+item.uraniumChestplate.name=Uranium Chestplate
+item.uraniumLeggings.name=Uranium Leggings
+item.uraniumBoots.name=Uranium Boots
+
+# Fluorite
+item.fluoriteHoe.name=Fluorite Hoe
+item.fluoriteAxe.name=Fluorite Axe
+item.fluoritePickaxe.name=Fluorite Pickaxe
+item.fluoriteShovel.name=Fluorite Shovel
+item.fluoriteSword.name=Fluorite Sword
+
+item.fluoriteStaff.name=Fluorite Staff
+item.fluoriteBattleaxe.name=Fluorite Battleaxe
+item.fluoriteKhopesh.name=Fluorite Khopesh
+item.fluoriteKatana.name=Fluorite Katana
+item.fluoriteBigSword.name=Fluorite Big Sword
+
+item.fluoriteHelmet.name=Fluorite Helmet
+item.fluoriteChestplate.name=Fluorite Chestplate
+item.fluoriteLeggings.name=Fluorite Leggings
+item.fluoriteBoots.name=Fluorite Boots
+
+# Platinum
+item.platinumHoe.name=Platinum Hoe
+item.platinumAxe.name=Platinum Axe
+item.platinumPickaxe.name=Platinum Pickaxe
+item.platinumShovel.name=Platinum Shovel
+item.platinumSword.name=Platinum Sword
+
+item.platinumStaff.name=Platinum Staff
+item.platinumBattleaxe.name=Platinum Battleaxe
+item.platinumKhopesh.name=Platinum Khopesh
+item.platinumKatana.name=Platinum Katana
+item.platinumBigSword.name=Platinum Big Sword
+
+item.platinumHelmet.name=Platinum Helmet
+item.platinumChestplate.name=Platinum Chestplate
+item.platinumLeggings.name=Platinum Leggings
+item.platinumBoots.name=Platinum Boots
+
+# Meteorite
+item.meteoriteHoe.name=Meteorite Hoe
+item.meteoriteAxe.name=Meteorite Axe
+item.meteoritePickaxe.name=Meteorite Pickaxe
+item.meteoriteShovel.name=Meteorite Shovel
+item.meteoriteSword.name=Meteorite Sword
+
+item.meteoriteStaff.name=Meteorite Staff
+item.meteoriteBattleaxe.name=Meteorite Battleaxe
+item.meteoriteKhopesh.name=Meteorite Khopesh
+item.meteoriteKatana.name=Meteorite Katana
+item.meteoriteBigSword.name=Meteorite Big Sword
+
+item.meteoriteHelmet.name=Meteorite Helmet
+item.meteoriteChestplate.name=Meteorite Chestplate
+item.meteoriteLeggings.name=Meteorite Leggings
+item.meteoriteBoots.name=Meteorite Boots
+
+# Other
+tile.minersGlowstone.name=Miners Glowstone
+tile.uraniumTNT.name=Uranium TNT
+tile.portalFire.name=Portal Fire
+tile.modPortal.name=Miners Portal
+
+# Items
+item.portalIgniter.name=Portal Igniter
+item.minersDream.name=Miner's Dream
+item.minersShaft.name=Miner's Shaft
+
+# Bows
+item.copperBow.name=Copper Bow
+item.tinBow.name=Tin Bow
+item.bronzeBow.name=Bronze Bow
+item.bauxiteBow.name=Bauxite Bow
+item.chromeBow.name=Chrome Bow
+item.silverBow.name=Silver Bow
+item.leadBow.name=Lead Bow
+item.rubyBow.name=Ruby Bow
+item.sapphireBow.name=Sapphire Bow
+item.stainlessBow.name=Stainless Bow
+item.amethystBow.name=Amethyst Bow
+item.titaniumBow.name=Titanium Bow
+item.jadeBow.name=Jade Bow
+item.uraniumBow.name=Uranium Bow
+item.fluoriteBow.name=Fluorite Bow
+item.platinumBow.name=Platinum Bow
+item.meteoriteBow.name=Meteorite Bow
+
+# Achievements
+achievement.craftPortalIgniter=Portal Igniter
+achievement.craftPortalIgniter.desc=Craft a Portal Igniter
+
+achievement.mineCopper=Copper Ingot
+achievement.mineCopper.desc=Get a Copper Ingot
+achievement.craftCopperPickaxe=Copper Pickaxe
+achievement.craftCopperPickaxe.desc=Craft a Copper Pickaxe
+
+achievement.mineTin=Tin Ingot
+achievement.mineTin.desc=Get a Tin Ingot
+achievement.craftTinPickaxe=Tin Pickaxe
+achievement.craftTinPickaxe.desc=Craft a Tin Pickaxe
+
+achievement.mineBronze=Bronze Ingot
+achievement.mineBronze.desc=Get a Bronze Ingot
+achievement.craftBronzePickaxe=Bronze Pickaxe
+achievement.craftBronzePickaxe.desc=Craft a Bronze Pickaxe
+
+achievement.mineBauxite=Bauxite Ingot
+achievement.mineBauxite.desc=Get a Bauxite Ingot
+achievement.craftBauxitePickaxe=Bauxite Pickaxe
+achievement.craftBauxitePickaxe.desc=Craft a Bauxite Pickaxe
+
+achievement.mineChrome=Chrome Ingot
+achievement.mineChrome.desc=Get a Chrome Ingot
+achievement.craftChromePickaxe=Chrome Pickaxe
+achievement.craftChromePickaxe.desc=Craft a Chrome Pickaxe
+
+achievement.mineSilver=Silver Ingot
+achievement.mineSilver.desc=Get a Silver Ingot
+achievement.craftSilverPickaxe=Silver Pickaxe
+achievement.craftSilverPickaxe.desc=Craft a Silver Pickaxe
+
+achievement.mineLead=Lead Ingot
+achievement.mineLead.desc=Get a Lead Ingot
+achievement.craftLeadPickaxe=Lead Pickaxe
+achievement.craftLeadPickaxe.desc=Craft a Lead Pickaxe
+
+achievement.mineRuby=Ruby Gem
+achievement.mineRuby.desc=Get a Ruby Gem
+achievement.craftRubyPickaxe=Ruby Pickaxe
+achievement.craftRubyPickaxe.desc=Craft a Ruby Pickaxe
+
+achievement.mineSapphire=Sapphire Gem
+achievement.mineSapphire.desc=Get a Sapphire Gem
+achievement.craftSapphirePickaxe=Sapphire Pickaxe
+achievement.craftSapphirePickaxe.desc=Craft a Sapphire Pickaxe
+
+achievement.mineStainless=Stainless Ingot
+achievement.mineStainless.desc=Get a Stainless Ingot
+achievement.craftStainlessPickaxe=Stainless Pickaxe
+achievement.craftStainlessPickaxe.desc=Craft a Stainless Pickaxe
+
+achievement.mineFluorite=Fluorite Ingot
+achievement.mineFluorite.desc=Get a Fluorite Ingot
+achievement.craftFluoritePickaxe=Fluorite Pickaxe
+achievement.craftFluoritePickaxe.desc=Craft a Fluorite Pickaxe
+
+achievement.mineJade=Jade Gem
+achievement.mineJade.desc=Get a Jade Gem
+achievement.craftJadePickaxe=Jade Pickaxe
+achievement.craftJadePickaxe.desc=Craft a Jade Pickaxe
+
+achievement.mineTitanium=Titanium Ingot
+achievement.mineTitanium.desc=Get a Titanium Ingot
+achievement.craftTitaniumPickaxe=Titanium Pickaxe
+achievement.craftTitaniumPickaxe.desc=Craft a Titanium Pickaxe
+
+achievement.mineUranium=Uranium Ingot
+achievement.mineUranium.desc=Get a Uranium Ingot
+achievement.craftUraniumPickaxe=Uranium Pickaxe
+achievement.craftUraniumPickaxe.desc=Craft a Uranium Pickaxe
+
+achievement.mineAmethyst=Amethyst Ingot
+achievement.mineAmethyst.desc=Get a Amethyst Ingot
+achievement.craftAmethystPickaxe=Amethyst Pickaxe
+achievement.craftAmethystPickaxe.desc=Craft a Amethyst Pickaxe
+
+achievement.minePlatinum=Platinum Ingot
+achievement.minePlatinum.desc=Get a Platinum Ingot
+achievement.craftPlatinumPickaxe=Platinum Pickaxe
+achievement.craftPlatinumPickaxe.desc=Craft a Platinum Pickaxe
+
+achievement.mineMeteorite=Meteorite Ingot
+achievement.mineMeteorite.desc=Get a Meteorite
+achievement.craftMeteoritePickaxe=Meteorite Pickaxe
+achievement.craftMeteoritePickaxe.desc=Craft a Meteorite Pickaxe

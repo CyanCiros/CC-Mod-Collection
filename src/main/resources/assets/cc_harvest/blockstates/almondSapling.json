@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "stage=0": { "model": "cc_harvest:almondSapling" },
+        "stage=1": { "model": "cc_harvest:almondSapling" }
+    }
+}

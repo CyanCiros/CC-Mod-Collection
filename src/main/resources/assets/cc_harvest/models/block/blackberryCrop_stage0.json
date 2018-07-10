@@ -1,0 +1,6 @@
+{
+    "parent": "cc_harvest:block/blackberryCrop",
+    "textures": {
+        "crop": "cc_harvest:blocks/blackberryCrop_stage0"
+    }
+}

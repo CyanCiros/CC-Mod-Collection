@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "normal": { "model": "cc_harvest:waterGarden" },   
+        "stage=0": { "model": "cc_harvest:waterGarden" },
+        "stage=1": { "model": "cc_harvest:waterGarden" }
+    }
+}

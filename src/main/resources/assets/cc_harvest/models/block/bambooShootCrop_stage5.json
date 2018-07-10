@@ -1,0 +1,6 @@
+{
+    "parent": "cc_harvest:block/bambooShootCrop",
+    "textures": {
+        "crop": "cc_harvest:blocks/bambooShootCrop_stage5"
+    }
+}

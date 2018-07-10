@@ -1,0 +1,6 @@
+{
+    "parent": "cc_harvest:block/barleyCrop",
+    "textures": {
+        "crop": "cc_harvest:blocks/barleyCrop_stage6"
+    }
+}

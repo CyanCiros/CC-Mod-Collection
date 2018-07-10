@@ -1,0 +1,6 @@
+{
+    "parent": "cc_harvest:block/cactusFruitCrop",
+    "textures": {
+        "crop": "cc_harvest:blocks/cactusFruitCrop_stage2"
+    }
+}

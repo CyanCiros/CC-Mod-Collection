@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "cc_emerald:blocks/lapisCrop_stage_2"
+    }
+}

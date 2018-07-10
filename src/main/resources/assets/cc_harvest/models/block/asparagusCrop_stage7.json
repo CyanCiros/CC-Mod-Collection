@@ -1,0 +1,6 @@
+{
+    "parent": "cc_harvest:block/asparagusCrop",
+    "textures": {
+        "crop": "cc_harvest:blocks/asparagusCrop_stage7"
+    }
+}

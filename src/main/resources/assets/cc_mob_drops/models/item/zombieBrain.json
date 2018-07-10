@@ -1,0 +1,6 @@
+{
+    "parent": "cc_mob_drops:item/standard_item",
+    "textures": {
+        "layer0": "cc_mob_drops:items/zombieBrain"
+    }
+}

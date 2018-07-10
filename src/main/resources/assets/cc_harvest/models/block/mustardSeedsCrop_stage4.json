@@ -1,0 +1,6 @@
+{
+    "parent": "cc_harvest:block/mustardSeedsCrop",
+    "textures": {
+        "crop": "cc_harvest:blocks/mustardSeedsCrop_stage4"
+    }
+}

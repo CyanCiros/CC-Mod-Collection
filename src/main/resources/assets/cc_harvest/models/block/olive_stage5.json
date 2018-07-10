@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "cc_harvest:blocks/olive_stage5"
+    }
+}

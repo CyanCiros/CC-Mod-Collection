@@ -1,0 +1,6 @@
+{
+    "parent": "cc_harvest:block/brusselSproutCrop",
+    "textures": {
+        "crop": "cc_harvest:blocks/brusselSproutCrop_stage0"
+    }
+}

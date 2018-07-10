@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "facing=up": { "model": "cc_emerald:normal_coalTorch" },
+        "facing=east": { "model": "cc_emerald:normal_coalTorch_wall" },
+        "facing=south": { "model": "cc_emerald:normal_coalTorch_wall", "y": 90 },
+        "facing=west": { "model": "cc_emerald:normal_coalTorch_wall", "y": 180 },
+        "facing=north": { "model": "cc_emerald:normal_coalTorch_wall", "y": 270 }
+    }
+}

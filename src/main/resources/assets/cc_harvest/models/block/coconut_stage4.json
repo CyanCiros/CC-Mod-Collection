@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "cc_harvest:blocks/coconut_stage4"
+    }
+}

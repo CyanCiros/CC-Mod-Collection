@@ -1,0 +1,6 @@
+{
+    "parent": "cc_more_crafting_recipes:item/standard_item",
+    "textures": {
+        "layer0": "cc_more_crafting_recipes:items/stringStack"
+    }
+}

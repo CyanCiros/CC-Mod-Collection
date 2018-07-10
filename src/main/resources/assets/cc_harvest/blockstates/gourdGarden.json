@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "normal": { "model": "cc_harvest:gourdGarden" },  
+        "stage=0": { "model": "cc_harvest:gourdGarden" },
+        "stage=1": { "model": "cc_harvest:gourdGarden" }
+    }
+}

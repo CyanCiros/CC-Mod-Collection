@@ -1,0 +1,6 @@
+{
+    "parent": "cc_harvest:block/candleberryCrop",
+    "textures": {
+        "crop": "cc_harvest:blocks/candleberryCrop_stage5"
+    }
+}

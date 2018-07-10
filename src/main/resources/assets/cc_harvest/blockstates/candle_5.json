@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "facing=up": { "model": "cc_harvest:normal_candle_5" },
+        "facing=east": { "model": "cc_harvest:normal_candle_5_wall" },
+        "facing=south": { "model": "cc_harvest:normal_candle_5_wall", "y": 90 },
+        "facing=west": { "model": "cc_harvest:normal_candle_5_wall", "y": 180 },
+        "facing=north": { "model": "cc_harvest:normal_candle_5_wall", "y": 270 }
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "cc_harvest:block/bellpepperCrop",
+    "textures": {
+        "crop": "cc_harvest:blocks/bellpepperCrop_stage4"
+    }
+}

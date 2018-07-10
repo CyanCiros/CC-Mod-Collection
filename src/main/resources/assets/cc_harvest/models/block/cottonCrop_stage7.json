@@ -1,0 +1,6 @@
+{
+    "parent": "cc_harvest:block/cottonCrop",
+    "textures": {
+        "crop": "cc_harvest:blocks/cottonCrop_stage7"
+    }
+}

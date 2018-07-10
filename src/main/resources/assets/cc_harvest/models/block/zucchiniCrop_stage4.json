@@ -1,0 +1,6 @@
+{
+    "parent": "cc_harvest:block/zucchiniCrop",
+    "textures": {
+        "crop": "cc_harvest:blocks/zucchiniCrop_stage4"
+    }
+}

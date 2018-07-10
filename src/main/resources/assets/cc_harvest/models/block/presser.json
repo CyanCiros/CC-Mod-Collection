@@ -1,0 +1,9 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "cc_harvest:blocks/presser_top",
+        "bottom": "cc_harvest:blocks/presser_bottom",
+        "front": "cc_harvest:blocks/presser_front",
+        "side": "cc_harvest:blocks/presser_side"
+    }
+}

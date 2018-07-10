@@ -1,0 +1,6 @@
+{
+    "parent": "cc_harvest:block/winterSquashCrop",
+    "textures": {
+        "crop": "cc_harvest:blocks/winterSquashCrop_stage1"
+    }
+}

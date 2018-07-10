@@ -1,0 +1,6 @@
+{
+    "parent": "cc_more:item/standard_tool",
+    "textures": {
+        "layer0": "cc_more:items/silverShovel"
+    }
+}

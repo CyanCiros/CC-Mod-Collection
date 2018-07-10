@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "normal": { "model": "cc_harvest:luckyCropsBox" },
+        "facing=north": { "model": "cc_harvest:luckyCropsBox" },
+        "facing=south": { "model": "cc_harvest:luckyCropsBox", "y": 180 },
+        "facing=west":  { "model": "cc_harvest:luckyCropsBox", "y": 270 },
+        "facing=east":  { "model": "cc_harvest:luckyCropsBox", "y": 90 }
+    }
+}

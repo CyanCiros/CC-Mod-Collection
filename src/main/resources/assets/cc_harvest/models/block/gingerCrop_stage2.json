@@ -1,0 +1,6 @@
+{
+    "parent": "cc_harvest:block/gingerCrop",
+    "textures": {
+        "crop": "cc_harvest:blocks/gingerCrop_stage2"
+    }
+}

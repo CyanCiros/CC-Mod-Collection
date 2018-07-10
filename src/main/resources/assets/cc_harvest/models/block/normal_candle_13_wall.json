@@ -1,0 +1,6 @@
+{
+    "parent": "block/torch_wall",
+    "textures": {
+        "torch": "cc_harvest:blocks/candle_13_on"
+    }
+}

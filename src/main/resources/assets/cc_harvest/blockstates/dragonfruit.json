@@ -1,0 +1,13 @@
+{
+    "variants": {        
+        "normal": { "model": "cc_harvest:dragonfruit" },                                     
+        "age=0": { "model": "cc_harvest:dragonfruit_stage0" },
+        "age=1": { "model": "cc_harvest:dragonfruit_stage1" },
+        "age=2": { "model": "cc_harvest:dragonfruit_stage2" },
+        "age=3": { "model": "cc_harvest:dragonfruit_stage3" },
+        "age=4": { "model": "cc_harvest:dragonfruit_stage4" },
+        "age=5": { "model": "cc_harvest:dragonfruit_stage5" },
+        "age=6": { "model": "cc_harvest:dragonfruit_stage6" },
+        "age=7": { "model": "cc_harvest:dragonfruit_stage7" }
+    }
+}

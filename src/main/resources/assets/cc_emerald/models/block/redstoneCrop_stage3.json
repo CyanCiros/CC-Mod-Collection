@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "cc_emerald:blocks/redstoneCrop_stage_3"
+    }
+}

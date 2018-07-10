@@ -1,0 +1,6 @@
+{
+    "parent": "cc_harvest:block/tomatoCrop",
+    "textures": {
+        "crop": "cc_harvest:blocks/tomatoCrop_stage6"
+    }
+}

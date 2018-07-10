@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "normal": { "model": "cc_harvest:storageYogurtBox" },
+        "facing=north": { "model": "cc_harvest:storageYogurtBox" },
+        "facing=south": { "model": "cc_harvest:storageYogurtBox", "y": 180 },
+        "facing=west":  { "model": "cc_harvest:storageYogurtBox", "y": 270 },
+        "facing=east":  { "model": "cc_harvest:storageYogurtBox", "y": 90 }
+    }
+}

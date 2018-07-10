@@ -1,0 +1,7 @@
+{
+    "parent": "block/door_bottom",
+    "textures": {
+        "bottom": "cc_emerald:blocks/doorBlock_lower",
+        "top": "cc_emerald:blocks/doorBlock_upper"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "cc_harvest:blocks/churn_top",
+        "bottom": "cc_harvest:blocks/churn_bottom",
+        "front": "cc_harvest:blocks/churn_side",
+        "side": "cc_harvest:blocks/churn_side",
+        "back": "cc_harvest:blocks/churn_side"
+    }
+}

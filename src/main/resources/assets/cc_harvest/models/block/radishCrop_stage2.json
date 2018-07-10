@@ -1,0 +1,6 @@
+{
+    "parent": "cc_harvest:block/radishCrop",
+    "textures": {
+        "crop": "cc_harvest:blocks/radishCrop_stage2"
+    }
+}

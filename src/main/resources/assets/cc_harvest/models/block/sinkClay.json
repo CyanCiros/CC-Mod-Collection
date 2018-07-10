@@ -1,0 +1,10 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "cc_harvest:blocks/sinkClay_top",
+        "bottom": "cc_harvest:blocks/sinkClay_bottom",
+        "front": "cc_harvest:blocks/sinkClay_side",
+        "side": "cc_harvest:blocks/sinkClay_side",
+        "back": "cc_harvest:blocks/sinkClay_side"
+    }
+}

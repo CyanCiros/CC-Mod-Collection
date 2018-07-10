@@ -1,0 +1,6 @@
+{
+    "parent": "cc_harvest:block/turnipCrop",
+    "textures": {
+        "crop": "cc_harvest:blocks/turnipCrop_stage2"
+    }
+}

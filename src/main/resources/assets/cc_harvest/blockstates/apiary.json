@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "normal": { "model": "cc_harvest:apiary" },
+        "facing=north": { "model": "cc_harvest:apiary" },
+        "facing=south": { "model": "cc_harvest:apiary", "y": 180 },
+        "facing=west":  { "model": "cc_harvest:apiary", "y": 270 },
+        "facing=east":  { "model": "cc_harvest:apiary", "y": 90 }
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "normal": { "model": "cc_harvest:storagePieBox" },
+        "facing=north": { "model": "cc_harvest:storagePieBox" },
+        "facing=south": { "model": "cc_harvest:storagePieBox", "y": 180 },
+        "facing=west":  { "model": "cc_harvest:storagePieBox", "y": 270 },
+        "facing=east":  { "model": "cc_harvest:storagePieBox", "y": 90 }
+    }
+}

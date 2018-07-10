@@ -1,0 +1,6 @@
+{
+    "parent": "cc_harvest:block/teaLeafCrop",
+    "textures": {
+        "crop": "cc_harvest:blocks/teaLeafCrop_stage5"
+    }
+}

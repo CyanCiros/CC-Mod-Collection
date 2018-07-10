@@ -1,0 +1,6 @@
+{
+    "parent": "cc_harvest:block/riceCrop",
+    "textures": {
+        "crop": "cc_harvest:blocks/riceCrop_stage5"
+    }
+}

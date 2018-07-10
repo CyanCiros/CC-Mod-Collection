@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "normal": { "model": "cc_harvest:storageWarmFruitsBox" },
+        "facing=north": { "model": "cc_harvest:storageWarmFruitsBox" },
+        "facing=south": { "model": "cc_harvest:storageWarmFruitsBox", "y": 180 },
+        "facing=west":  { "model": "cc_harvest:storageWarmFruitsBox", "y": 270 },
+        "facing=east":  { "model": "cc_harvest:storageWarmFruitsBox", "y": 90 }
+    }
+}

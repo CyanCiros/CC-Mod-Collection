@@ -1,0 +1,6 @@
+{
+    "parent":"cc_emerald:item/standard_item",
+    "textures": {
+        "layer0":"cc_emerald:items/glowstoneApple"
+    }
+}

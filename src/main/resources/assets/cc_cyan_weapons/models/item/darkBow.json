@@ -1,0 +1,6 @@
+{
+    "parent": "cc_cyan_weapons:item/standard_tool",
+    "textures": {
+        "layer0": "cc_cyan_weapons:items/darkBow"
+    }
+}

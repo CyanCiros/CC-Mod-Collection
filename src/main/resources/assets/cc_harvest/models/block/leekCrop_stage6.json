@@ -1,0 +1,6 @@
+{
+    "parent": "cc_harvest:block/leekCrop",
+    "textures": {
+        "crop": "cc_harvest:blocks/leekCrop_stage6"
+    }
+}

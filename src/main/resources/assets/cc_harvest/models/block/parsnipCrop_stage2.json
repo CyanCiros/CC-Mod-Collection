@@ -1,0 +1,6 @@
+{
+    "parent": "cc_harvest:block/parsnipCrop",
+    "textures": {
+        "crop": "cc_harvest:blocks/parsnipCrop_stage2"
+    }
+}

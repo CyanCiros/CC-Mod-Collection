@@ -1,0 +1,6 @@
+{
+    "parent": "cc_mob_drops:item/standard_tool",
+    "textures": {
+        "layer0": "cc_mob_drops:items/magmaGooSword"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "normal": { "model": "cc_more:minersPortal" },
+        "axis=z": { "model": "cc_more:minersPortal" },
+        "axis=x": { "model": "cc_more:minersPortal" }
+    }
+}

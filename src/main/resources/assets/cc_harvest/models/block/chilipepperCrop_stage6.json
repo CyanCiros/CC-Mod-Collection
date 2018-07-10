@@ -1,0 +1,6 @@
+{
+    "parent": "cc_harvest:block/chilipepperCrop",
+    "textures": {
+        "crop": "cc_harvest:blocks/chilipepperCrop_stage6"
+    }
+}

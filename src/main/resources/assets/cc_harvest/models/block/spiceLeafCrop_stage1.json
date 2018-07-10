@@ -1,0 +1,6 @@
+{
+    "parent": "cc_harvest:block/spiceLeafCrop",
+    "textures": {
+        "crop": "cc_harvest:blocks/spiceLeafCrop_stage1"
+    }
+}

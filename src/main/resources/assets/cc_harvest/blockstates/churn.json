@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "normal": { "model": "cc_harvest:churn" },
+        "facing=north": { "model": "cc_harvest:churn" },
+        "facing=south": { "model": "cc_harvest:churn", "y": 180 },
+        "facing=west":  { "model": "cc_harvest:churn", "y": 270 },
+        "facing=east":  { "model": "cc_harvest:churn", "y": 90 }
+    }
+}

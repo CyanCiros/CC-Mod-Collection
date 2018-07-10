@@ -1,0 +1,11 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "up": "cc_harvest:blocks/beehive_top",
+        "down": "cc_harvest:blocks/beehive_bottom",
+        "north": "cc_harvest:blocks/beehive_side",
+        "east": "cc_harvest:blocks/beehive_side",
+        "south": "cc_harvest:blocks/beehive_side",
+        "west": "cc_harvest:blocks/beehive_side"
+    }
+}

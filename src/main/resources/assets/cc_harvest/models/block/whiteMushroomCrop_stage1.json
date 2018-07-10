@@ -1,0 +1,6 @@
+{
+    "parent": "cc_harvest:block/whiteMushroomCrop",
+    "textures": {
+        "crop": "cc_harvest:blocks/whiteMushroomCrop_stage1"
+    }
+}
