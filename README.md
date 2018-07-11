@@ -1,6 +1,8 @@
 # CC-Mod-Collection
 A collection of mods I found online and re-created in order to make one combined mod out all of them. I started working on it in 1.7 and updated it later to 1.8. All mods are made with the Infrastructure I use, therefor they could be used as an individual or as one mod all together.
 
+Resources are mostly made by there original creators. Some of them are made by mi in order to expand the content with the ideas I had for it.
+
 Custom Ore Generation:
 Customize the spawn size and spawn rates of all ores.
 
