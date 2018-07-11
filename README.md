@@ -3,6 +3,8 @@ A collection of mods I found online and re-created in order to make one combined
 
 Resources are mostly made by there original creators. Some of them are made by mi in order to expand the content with the ideas I had for it.
 
+Made on: forge-1.8-11.14.4.1563
+
 Custom Ore Generation:
 Customize the spawn size and spawn rates of all ores.
 
