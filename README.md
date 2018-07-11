@@ -5,6 +5,8 @@ Resources are mostly made by there original creators. Some of them are made by m
 
 Made on: forge-1.8-11.14.4.1563
 
+Some images from ingame: https://imgur.com/a/GbgspCe, this ain't everything, there is a lot more.
+
 Custom Ore Generation:
 Customize the spawn size and spawn rates of all ores.
 
